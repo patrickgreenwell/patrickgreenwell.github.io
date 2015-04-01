@@ -3,7 +3,7 @@ layout:
 title: Starting out with Meteor.js
 categories: ["coding"]
 tags: ["Coding","Meteor","Heroku","Git"]
-published: False
+published: True
 
 ---
 
