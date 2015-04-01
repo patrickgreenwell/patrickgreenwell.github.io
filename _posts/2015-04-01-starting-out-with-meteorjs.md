@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: Starting out with Meteor.js
 categories: ["coding"]
 tags: ["Coding","Meteor","Heroku","Git"]
