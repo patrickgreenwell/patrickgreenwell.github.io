@@ -17,6 +17,7 @@ After cloning the repo for the MBTA Ninja I followed along on how to get Meteor 
 This was much simpler to run on my machine.
 
 I simply:
+
 * [Installed meteor](https://www.meteor.com/install)
 * Cloned the repo `git clone https://github.com/patrickgreenwell/mbta-ninja`
 * Told meteor to update all packages to make them compatible with the Windows Release candidate `meteor update --release WINDOWS-PREVIEW@0.3.0` (which it helpfully told me the exact command when I tried to run the project the first time)
