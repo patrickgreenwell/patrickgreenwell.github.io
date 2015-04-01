@@ -1,8 +1,0 @@
- ---
- layout: post
- 
- ---
- 
- After playing around with Jekyll blogging and github pages, I noticed that [Jekyll](https://jekyllrb.com/) supports using data in csv format.
- 
- This is pretty cool in and of itself as it allows you to take static CSV files and display the data associated with them any way you want.
