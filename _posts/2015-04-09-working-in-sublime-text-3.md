@@ -12,7 +12,7 @@ After diving in with [meteor.js](%post_url 2015-04-01-starting-out-with-meteorjs
 I settled on ST3 over VIM, EMACS, or continuing to use N++ for a couple reasons:
 
 1. The learning curve on ST3 seemed less steep than that of VI.
-2  It seemed like less of a hassle than to get Notepad++ to be my editor for these projects.
+2. It seemed like less of a hassle than to get Notepad++ to be my editor for these projects.
 3. There are a ton of great articles out there on how to get you up and running in ST3.
 
 One of the bigest things everyone tells you to do when you first get Sublime is to install [package control](https://packagecontrol.io/installation).  From then on you can hit `Ctrl`+`Shift`+`P`, type `Install Package` hit `Enter` and then you've got your list of all the packages you could want.
