@@ -7,7 +7,7 @@ published: True
 
 ---
 
-After diving in with [meteor.js]({%post_url 2015-04-01-starting-out-with-meteorjs%}) and some open source projects with [Code For Boston](https://github.com/davelago/mbta-ninja)  I decided to upgrade from my default text editor I was using to something more robust.  I've been a fan of Notepad++ for quite a while but have yet to really expand into doing any semblance of proper coding with it.  After searching around and hearing recomendations from folks I settled on Sublime Text 3.  It's really robust, has a package management system that is quite expansive and has some intellisense that is expandable.  
+After diving in with [meteor.js]({%post_url 2015-04-01-starting-out-with-meteorjs%}) and some open source projects with [Code For Boston](https://github.com/davidlago/mbta-ninja)  I decided to upgrade from my default text editor I was using to something more robust.  I've been a fan of Notepad++ for quite a while but have yet to really expand into doing any semblance of proper coding with it.  After searching around and hearing recomendations from folks I settled on Sublime Text 3.  It's really robust, has a package management system that is quite expansive and has some intellisense that is expandable.  
 
 I settled on ST3 over VIM, EMACS, or continuing to use N++ for a couple reasons:
 
