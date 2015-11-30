@@ -6,7 +6,7 @@
 name: Patrick Greenwell
 
 # Short bio or description (displayed in the header)
-description: Development Lead from Boston
+description: Senior Software Developer from Boston
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/5296581#https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -25,7 +25,7 @@ footer-links:
   instagram: 
   linkedin:
   pinterest: 
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  rss:  true
   twitter: psgreen
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
