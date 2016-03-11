@@ -13,8 +13,19 @@ One way you can manage this is by using Excel.  Which many agencies do when they
 
 An easy way to do some analysis is to use a database of some sort, You could go with a traditional SQL database but I'd rather get going quickly and have the option to save things as JSON objects.  For that I'm going to use [mongoDB], a document database that stores items a [BSON] with some extra base datatypes not present in standard JSON.  Mongo is quick, supports atomic operations and can handle quite a large set of documents in various collections.    
 
+It's great for working with large datasets and doing some quick analysis using it's integrated query language.
+
+Once we have mongo up and running we can use the mongoimport command line tool to import the CSV files to collections in mongo.
+
+So first things first you'll need to install and run mongo.
+Then to get prepped to import the data download a GTFS file, you can find a sample [here][GTFS File]
+
+`mongoimport -h -c agency -f agency_info.txt`
+
+
 
 
 [GTFS]:https://developers.google.com/transit/gtfs/reference?hl=en
 [GeoJSON]:http://geojson.org/
 [MBTA]:https://www.mbta.com/
+[GTFS File]:
